@@ -427,6 +427,8 @@ if __name__ == '__main__':
           description='Computer algebra system (CAS) in Python',
           author='SymPy development team',
           author_email='sympy@googlegroups.com',
+          long_description=long_description,
+          long_description_content_type='text/markdown',
           license='BSD',
           keywords="Math CAS",
           url='https://sympy.org',
